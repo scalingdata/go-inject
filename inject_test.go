@@ -2,7 +2,7 @@ package inject_test
 
 import (
 	"fmt"
-	"github.com/codegangsta/inject"
+	"github.com/scalingdata/go-inject"
 	"reflect"
 	"testing"
 )

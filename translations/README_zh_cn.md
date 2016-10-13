@@ -1,6 +1,6 @@
 # inject
 --
-    import "github.com/codegangsta/inject"
+    import "github.com/scalingdata/go-inject"
 
 inject包提供了多种对实体的映射和依赖注入方式。
 

@@ -1,6 +1,6 @@
 # inject
 --
-    import "github.com/codegangsta/inject"
+    import "github.com/scalingdata/go-inject"
 
 Package inject provides utilities for mapping and injecting dependencies in
 various ways.
